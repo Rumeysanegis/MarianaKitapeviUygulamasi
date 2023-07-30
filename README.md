@@ -1,4 +1,4 @@
-# Mariana Kitapevi Uygulaması
+# Mariana Kitapevi Uygulaması(2021)
 Yazılım Proje Yönetimi Okul Projesi
 
 EKİP
